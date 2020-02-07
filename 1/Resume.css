@@ -1,0 +1,35 @@
+body{
+  background-color: #f8f8ff
+}
+.name{
+  font-size: 20px
+}
+h2{
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+h3{
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+ul{
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+hr{
+  border-color: black;
+}
+.quote{
+  font-style: italic;
+  font-size: 14px;
+}
+span{
+  color: red;
+  font-weight: bold;
+}
+a:hover{
+  color:red;
+}
